@@ -1,0 +1,5 @@
+[
+  "tests/test_stats.py::test_darPorcentajePc",
+  "tests/test_stats.py::test_darMemoriaRam",
+  "tests/test_stats.py::test_darEspacioDiscoLibre"
+]
