@@ -127,12 +127,22 @@ Ejecución de tox.ini
 ![imagen](./imagenes/tox.png)
 
 otro de los archivos que utiliza TravisCI es '.travis.yml' el cual contiene:
+
 sudo --> para determinar si se ejecuta como root
+
 language --> lenguaje de las pruebas
-notifications ---> si deseamos recibir al correo cada build que se haga 
+
+notifications ---> si deseamos recibir al correo cada build que se haga
+ 
 versión de python
-paquetes a instalar 
+
+paquetes a instalar
+
 ejecución del comando tox.
+
+Vista de prueba en Travis
+
+![imagen](./imagenes/travis.png)
 
 
 
